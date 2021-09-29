@@ -16,13 +16,13 @@ Search for toys
 
 Arrange items from low to high
     Sort items
-Add items to shopping cart
-    Click first toy
-    Add toy to cart
+#Add items to shopping cart
+#    Click first toy
+#    Add toy to cart
 
-Remove item from shopping cart
-    Go to shopping cart
-    Delete item
+#Remove item from shopping cart
+#   Go to shopping cart
+#   Delete item
     
 Valid logout
     Log out from main screen
