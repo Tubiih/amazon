@@ -23,3 +23,4 @@ Log out from main screen
     Wait Until Element Is Visible    xpath://*[@id="nav-link-accountList"]/span
     Mouse Over      xpath://*[@id="nav-link-accountList"]/span
     Click Element    //*[@id="nav-item-signout"]/span    
+
