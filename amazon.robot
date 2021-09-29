@@ -10,9 +10,13 @@ Valid login
     Go to login screen
     Enter credentials and click login button
 
-Add item to shopping cart
+Search for toys
     Go to main page
     Search for toys
+
+Arrange items from low to high
+    Sort items
+Add items to shopping cart
     Click first toy
     Add toy to cart
 

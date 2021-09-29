@@ -35,6 +35,10 @@ Add toy to cart
 Go to shopping cart
     Click Element    id:nav-cart-count
 
+Sort items
+    Click Element    //*[@id="a-autoid-0-announce"]/span[2]
+    Click Element    //*[@id="s-result-sort-select_1"]
+
 Delete item
     Click Element    //*[@id="sc-item-C46896bfb-9158-47a6-98a4-68a31e965d44"]/div[4]/div/div[1]/div/div/div[2]/div[1]/span[2]/span/input
 
