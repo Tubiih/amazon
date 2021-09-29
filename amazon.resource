@@ -19,6 +19,13 @@ Enter credentials and click login button
     Input Text    id:ap_password    tester
     Click Button    id:signInSubmit
 
+Go to main page
+    Go to     ${URL}
+
+Search for toys
+    Input Text     id:twotabsearchtextbox    toys
+    Click Element        nav-search-submit-button
+
 Log out from main screen
     Wait Until Element Is Visible    xpath://*[@id="nav-link-accountList"]/span
     Mouse Over      xpath://*[@id="nav-link-accountList"]/span

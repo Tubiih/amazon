@@ -10,7 +10,9 @@ Valid login
     Go to login screen
     Enter credentials and click login button
 
+Seach for items
+    Go to main page
+    Search for toys
+
 Valid logout
     Log out from main screen
-    
-
